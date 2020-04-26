@@ -64,3 +64,10 @@
 .section-light {
     background-color: rgb(247, 251, 255);
 }
+
+.img-fluid.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+  }

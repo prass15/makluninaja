@@ -545,7 +545,7 @@ body.app_version .header_style_01.fixed-menu{
 }
 
 .section.lb {
-    background-color: #f2f3f5;
+    background-color: rgb(247, 251, 255);
 }
 
 .section.db {
@@ -1978,7 +1978,7 @@ select.mobile-device {
     background-color: transparent;
     margin-bottom: 30px;
     box-sizing: border-box;
-    color: #ffffff;
+    color: rgb(54, 54, 54);
     font-size: 16px;
     outline: 0 none;
     padding: 5px 20px 20px 14px;
@@ -1988,25 +1988,26 @@ select.mobile-device {
     width: 100%;
 	border: none;
 	border-radius: 0px;
-	border-bottom: 1px solid #ffffff;
+	border-bottom: 1px solid rgb(54, 54, 54);
 }
 
 .contact_form textarea {
-    color: #ffffff;
+    color: rgb(54, 54, 54);
     height: 160px !important;
 }
 
 .contact_form .form-control::-webkit-input-placeholder {
-    color: #ffffff;
+    color: rgb(54, 54, 54);
 }
 
 .contact_form .form-control::-moz-placeholder {
     opacity: 1;
-    color: #ffffff;
+    color: rgb(54, 54, 54);
 }
 
 .contact_form .form-control::-ms-input-placeholder {
-    color: #ffffff;
+    color:     color: rgb(54, 54, 54);
+    ;
 }
 
 #contact {
